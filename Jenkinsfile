@@ -9,7 +9,7 @@ node {
     def HUB_ORG=env.HUB_ORG_DH
     def SFDC_HOST = env.SFDC_HOST_DH
     //def JWT_KEY_CRED_ID = env.JWT_CRED_ID_DH
-    def JWT_KEY_CRED_ID = "C:\\openssl\\bin\\server.key"
+    def JWT_KEY_CRED_ID = "9ac6fc05-bcb1-43e3-8afd-1827db396be8"
     def CONNECTED_APP_CONSUMER_KEY=env.CONNECTED_APP_CONSUMER_KEY_DH
 
     println 'KEY IS' 
